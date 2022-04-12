@@ -1,0 +1,13 @@
+idle_bg = "#020411" #
+idle_fg = "#FFFFFF" #
+info_bg = "#13121A" #
+info_fg = "#FFFFFF" #
+good_bg = "#0D1316" #
+good_fg = "#FFFFFF" #
+warning_bg = "{color3}" # color 3
+warning_fg = "#FFFFFF" #
+critical_bg = "#FFFFFF" #
+critical_fg = "{color3}" # color 3
+separator = "\ue0b2"
+separator_bg = "auto"
+separator_fg = "auto"
